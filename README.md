@@ -21,13 +21,15 @@ This document contains two case studies that analyze the effectiveness of online
 
 ├── 📄 README.md (This file – project overview and instructions)
 
-├── 📄 Case_Study_1_Project_Plan.pdf (Detailed report on data identification and collection for evaluating online learning platforms)
+├── 📊 EduLearn_Dashboard.xlsx (Excel file with sample data and visualizations for Case Study)
 
-├── 📄 Case_Study_2_Knowledge_Creation.pdf (Analysis of engagement decline in EduLearn and solutions)
+├── 📄 Scipt file (SQL file with querie for Case Study 1 and 2)
 
-├── 📊 EduLearn_Dashboard.xlsx (Excel file with sample data and visualizations for Case Study #2)
+├── Document File:
+📄 Case_Study_1_Project_Plan.pdf (Detailed report on data identification and collection for evaluating online learning platforms)
+📄 Case_Study_2_Knowledge_Creation.pdf (Analysis of engagement decline in EduLearn and solutions)
 
-├── 📂 Visuals/ (Contains charts, dashboards, and annotated documents related to the case studies)
+├── 📂 Visualization files/ (Contains charts, dashboards, and annotated documents related to the case studies)
 
 ├── 📂 References/ (Contains supporting research papers and data sources used in analysis)
 

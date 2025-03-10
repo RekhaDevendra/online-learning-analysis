@@ -18,11 +18,17 @@ This document contains two case studies that analyze the effectiveness of online
 
 # Folder Structure
 📂 Online_Learning_Case_Studies
+
 ├── 📄 README.md (This file – project overview and instructions)
+
 ├── 📄 Case_Study_1_Project_Plan.pdf (Detailed report on data identification and collection for evaluating online learning platforms)
+
 ├── 📄 Case_Study_2_Knowledge_Creation.pdf (Analysis of engagement decline in EduLearn and solutions)
+
 ├── 📊 EduLearn_Dashboard.xlsx (Excel file with sample data and visualizations for Case Study #2)
+
 ├── 📂 Visuals/ (Contains charts, dashboards, and annotated documents related to the case studies)
+
 ├── 📂 References/ (Contains supporting research papers and data sources used in analysis)
 
 # How to Use This Project
